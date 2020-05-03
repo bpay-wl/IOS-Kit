@@ -1,0 +1,4 @@
+framework module BhartiPay {
+  header "BhartiPay-Swift.h"
+  requires objc
+}
